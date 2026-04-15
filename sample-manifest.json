@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4316dd36-dc4e-4a05-879b-fa5671c06146",
+  "id_short": 816973,
+  "published_at": "2026-04-15T19:51:00Z",
+  "repo_name": "restaurant-verified-email-access-in-nevada-us-sample-816973",
+  "sample_asset_name": "beamstation_816973_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/816973/beamstation_816973_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 202,
+  "sample_sha256": "75835fb4d515c2e669f223b0ee693d8fcd07aa637fe407c8ab4c8d99e5f6558b",
+  "sample_size_bytes": 837699,
+  "total_records": 968
+}
