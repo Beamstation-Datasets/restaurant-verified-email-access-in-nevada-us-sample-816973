@@ -9,9 +9,9 @@
 | Dataset ID | `816973` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 968 records |
-| Free sample size | 202 records (20.87%) |
-| Last export | 2026-04-01T01:43:34.225386+00:00 |
+| Full dataset size | 2,028 records |
+| Free sample size | 202 records (9.96%) |
+| Last export | 2026-04-15T04:12:14.938441+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-nevada-us-sample-816973/releases/download/sample-latest/beamstation_816973_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
