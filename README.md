@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Nevada, US
 
-> Free BeamStation sample export with 202 rows and masked direct-contact fields.
+> Free BeamStation sample export with 150 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `816973` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 2,028 records |
-| Free sample size | 202 records (9.96%) |
-| Last export | 2026-04-15T04:12:14.938441+00:00 |
+| Full dataset size | 1,504 records |
+| Free sample size | 150 records (9.97%) |
+| Last export | 2026-04-22T09:36:16.631788+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-nevada-us-sample-816973/releases/download/sample-latest/beamstation_816973_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
